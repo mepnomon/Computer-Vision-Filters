@@ -1,0 +1,3 @@
+C:/Programs/C++/computer vision/Assignments/CV Assignment 2/bin/CMakeFiles/assignment2.dir
+C:/Programs/C++/computer vision/Assignments/CV Assignment 2/bin/CMakeFiles/ALL_BUILD.dir
+C:/Programs/C++/computer vision/Assignments/CV Assignment 2/bin/CMakeFiles/ZERO_CHECK.dir

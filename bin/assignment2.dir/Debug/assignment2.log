@@ -1,0 +1,59 @@
+﻿  Building Custom Rule C:/Programs/C++/computer vision/Assignments/CV Assignment 2/CMakeLists.txt
+  CMake does not need to re-run because C:\Programs\C++\computer vision\Assignments\CV Assignment 2\bin\CMakeFiles\generate.stamp is up-to-date.
+  Image.cpp
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(479): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(556): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(645): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(782): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(834): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1167): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1170): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1201): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1205): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1239): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1290): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1292): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1295): warning C4018: '<': signed/unsigned mismatch
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1375): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1398): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1400): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1422): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1425): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1416): warning C4101: 'sum2': unreferenced local variable
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1416): warning C4101: 'sum1': unreferenced local variable
+C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(1454): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2372): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate'
+  C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(64): note: see reference to function template instantiation '_OutIt *std::copy<float*,float*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _InIt=float *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2798): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2822): note: see reference to function template instantiation '_OutIt std::_Fill_n_unchecked1<_OutIt,_Diff,_Ty>(_OutIt,_Diff,const _Ty &,std::false_type)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Diff=unsigned int,
+              _Ty=int
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xutility(2831): note: see reference to function template instantiation '_OutIt std::_Fill_n_unchecked<_Iter,_Diff,_Ty>(_OutIt,_Diff,const _Ty &)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Iter=float *,
+              _Diff=unsigned int,
+              _Ty=int
+          ]
+  C:\Programs\C++\computer vision\Assignments\CV Assignment 2\src\Image.cpp(105): note: see reference to function template instantiation '_OutIt *std::fill_n<float*,unsigned int,int>(_OutIt,_Diff,const _Ty &)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Diff=unsigned int,
+              _Ty=int
+          ]
+  test2.cpp
+  Generating Code...
+  assignment2.vcxproj -> C:\Programs\C++\computer vision\Assignments\CV Assignment 2\bin\Debug\assignment2.exe

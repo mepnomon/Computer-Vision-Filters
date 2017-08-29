@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Programs\C++\computer vision\Assignments\CV Assignment 2\bin\CMakeFiles\aac8638cedf7a5a5ebb7949f0a7ce5b4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{85C18CA7-C732-3380-B327-EEF3D7DB58CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
